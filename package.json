@@ -1,0 +1,19 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "NodeJsTutorial [![Run on Repl.it](https://repl.it/badge/github/prasanthkp89/NodeJsTutorial)](https://repl.it/github/prasanthkp89/NodeJsTutorial)",
+  "main": "NodeJsTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthkp89/NodeJsTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthkp89/NodeJsTutorial/issues"
+  },
+  "homepage": "https://github.com/prasanthkp89/NodeJsTutorial#readme"
+}
